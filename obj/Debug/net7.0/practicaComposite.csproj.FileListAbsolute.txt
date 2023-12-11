@@ -1,0 +1,15 @@
+C:\Users\Alex\Documents\POO\practicaComposite\bin\Debug\net7.0\practicaComposite.exe
+C:\Users\Alex\Documents\POO\practicaComposite\bin\Debug\net7.0\practicaComposite.deps.json
+C:\Users\Alex\Documents\POO\practicaComposite\bin\Debug\net7.0\practicaComposite.runtimeconfig.json
+C:\Users\Alex\Documents\POO\practicaComposite\bin\Debug\net7.0\practicaComposite.dll
+C:\Users\Alex\Documents\POO\practicaComposite\bin\Debug\net7.0\practicaComposite.pdb
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.AssemblyInfoInputs.cache
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.AssemblyInfo.cs
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.dll
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\refint\practicaComposite.dll
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.pdb
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\practicaComposite.genruntimeconfig.cache
+C:\Users\Alex\Documents\POO\practicaComposite\obj\Debug\net7.0\ref\practicaComposite.dll
